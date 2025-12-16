@@ -9,3 +9,5 @@ Suppose that there are a series of opaque colored spheres in space, and call thi
 ### Objectives
 The main objective is to obtain a model which is faithful to the input images and perspectives (largely pixel-based).
 Some secondary ones include trying to reduce the number of spheres used and avoiding excessive overlap between spheres.
+
+As a fun sidenote, this could be used to kind of generate "anamorphic art" in which depending on the angle or perspective you look at it, it can be complete nonsense or form one of several different images.
