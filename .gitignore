@@ -1,0 +1,12 @@
+#Python
+__pycache__
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints
+
+#Downloaded test data
+src/graphics/env_test_data/*
+
+# generated sim-data
+data/rendered/*
